@@ -2,7 +2,7 @@
     "name": "b/projet-brech",
     "autoload": {
         "psr-4": {
-            "B\\ProjetBrech\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
